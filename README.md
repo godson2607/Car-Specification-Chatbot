@@ -1,17 +1,14 @@
 
+## 🚗 Car Specification Chatbot (LangGraph + OpenAI GPT-3.5)
+
+A simple command-line chatbot that provides detailed specifications for car models using the power of [LangGraph](https://github.com/langchain-ai/langgraph) and OpenAI's gpt-3.5-turbo.
 
 ---
 
-````markdown
-# 🚗 Car Specification Chatbot (LangGraph + OpenAI GPT-3.5)
-
-A simple command-line chatbot that provides detailed specifications for car models using the power of [LangGraph](https://github.com/langchain-ai/langgraph) and OpenAI's `gpt-3.5-turbo`.
-
----
 
 ## 📋 Features
 
-- Ask about any car model (e.g., **"Tell me about Hyundai Ioniq 5"**)
+- Ask about any car model (e.g., *"Tell me about Hyundai Ioniq 5"*)
 - Get a structured response including:
   - Engine type
   - Fuel efficiency
@@ -19,6 +16,7 @@ A simple command-line chatbot that provides detailed specifications for car mode
   - Key features
   - Approximate price
 - Powered by OpenAI GPT-3.5 and LangGraph for stateful reasoning
+
 
 ---
 
