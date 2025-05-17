@@ -107,15 +107,6 @@ car-spec-chatbot/
 
 ---
 
-## 🔐 License
-
-MIT License
-
----
-
-## 🙋‍♂️ Author
-
-Created by [Your Name](https://github.com/yourusername)
 
 ---
 
